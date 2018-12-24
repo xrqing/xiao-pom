@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sc-back" />
+        <module name="xiao-dao" />
+        <module name="xiao-entity" />
+        <module name="xiao-service-api" />
+        <module name="xiao-service-impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sc-back" target="1.8" />
+      <module name="xiao-dao" target="1.8" />
+      <module name="xiao-entity" target="1.8" />
+      <module name="xiao-pom" target="1.8" />
+      <module name="xiao-service-api" target="1.8" />
+      <module name="xiao-service-impl" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

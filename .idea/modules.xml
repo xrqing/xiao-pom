@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sc-back/sc-back.iml" filepath="$PROJECT_DIR$/sc-back/sc-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiao-dao/xiao-dao.iml" filepath="$PROJECT_DIR$/xiao-dao/xiao-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiao-entity/xiao-entity.iml" filepath="$PROJECT_DIR$/xiao-entity/xiao-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiao-pom.iml" filepath="$PROJECT_DIR$/xiao-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiao-service-api/xiao-service-api.iml" filepath="$PROJECT_DIR$/xiao-service-api/xiao-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiao-service-impl/xiao-service-impl.iml" filepath="$PROJECT_DIR$/xiao-service-impl/xiao-service-impl.iml" />
+    </modules>
+  </component>
+</project>
